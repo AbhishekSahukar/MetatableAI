@@ -44,7 +44,7 @@ Download the pdf from frontend .
 ![Interface](assets/interface.png)
 
 ## Sample output:
-![Sample Output](sampleoutput.png)
+![Sample Output](assets/sampleoutput.png)
 
 ## License
 MIT License – Free for personal and commercial use.
