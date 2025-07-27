@@ -1,0 +1,61 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+.env
+.env.*
+
+# VSCode / IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and debug output
+*.log
+debug/
+logs/
+
+# Output files
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.csv
+*.xlsx
+*.json
+extracted_data.json
+
+# Streamlit cache
+.streamlit/
+.cache/
+**/__pycache__/
+
+
+# OS specific
+ehthumbs.db
+Icon?
+desktop.ini
+
+# Pip
+pip-log.txt
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Backup files
+*.bak
+*.swp
+*.swo
+*~
+
+# Pytest cache
+.pytest_cache/

@@ -1,0 +1,11 @@
+streamlit
+PyMuPDF
+pdf2image
+pytesseract
+Pillow
+requests
+python-dotenv
+pandas
+tqdm
+dotenv
+langgraph
