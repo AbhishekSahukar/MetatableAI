@@ -24,7 +24,6 @@ logs/
 
 # Output files
 *.pdf
-*.png
 *.jpg
 *.jpeg
 *.csv
